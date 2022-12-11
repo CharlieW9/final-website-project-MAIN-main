@@ -1,0 +1,161 @@
+body{
+    background-color: black;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-size: 40px;
+    list-style-type: none;
+   
+}
+
+li{
+    padding: 6px 40px;
+}
+
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: bold;
+ 
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+a:hover{
+    color: #f58b1b;
+    transition: 0.2s;
+
+}
+
+.push{
+    margin-left: 620px;
+}
+
+P{
+    color: antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 340PX;
+ 
+}
+
+
+    
+.special{
+    font-size: 30px;
+    color: antiquewhite;
+    line-height: 0.01;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.dropdown{
+    padding-top: 0px;
+    font-size: 25px;
+    line-height: 25px;
+
+}
+
+.bold{
+    font-weight: 900;
+}
+
+
+
+.carp{
+   padding: 30px 80px;
+   display: flex; 
+   flex-wrap: wrap;
+   margin: 0px;
+}
+
+.object-container{
+    display: flex;
+    align-items: left;
+
+}
+
+.carp-text{
+    font-size: 22px;
+   /* border: 1px dashed burlywood;*/
+    text-align: center;
+    padding: 100px 25px;
+    font-weight: normal;
+    line-height: 35px;
+}
+
+.info-container{
+display:flex ;
+flex-wrap:wrap ;
+justify-content: center;
+}
+
+
+
+.info-text{
+    font-size: 20px;
+    padding: 90px 0px;
+   width: 900px;
+   height: 0px;  
+}
+
+
+.reflection-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+
+.reflection{
+    font-weight: normal;
+    font-size: 20px;
+    padding: 10px 0px;
+    color: antiquewhite;
+    text-align:center;
+    width: 1100px;
+    height: 500px;
+
+}
+
+
+.exports-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+ 
+
+ 
+}
+
+.typo{
+   padding: 0px 150px;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+
+.type-text{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: center;
+    font-size: 20px;
+    padding: 80px 0px;
+    height: 90px;
+   
+   /*border: 1px dashed burlywood;*/
+  
+}
