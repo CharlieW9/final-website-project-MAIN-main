@@ -145,8 +145,9 @@ justify-content: center;
     flex-wrap: wrap;
     justify-content: center;
     
-    
 }
+    
+
 
 .type-text{
     display: flex;
@@ -158,4 +159,15 @@ justify-content: center;
    
    /*border: 1px dashed burlywood;*/
   
+}
+
+
+.type-sub{
+    padding: 50px 80px;
+    /*border: 1px dashed burlywood;*/
+    font-size: 20px;
+    text-align: left;
+    font-weight: normal;
+    width: 1200px;
+    height: 150px;
 }
